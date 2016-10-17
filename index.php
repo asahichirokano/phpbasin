@@ -36,7 +36,7 @@ and open the template in the editor.
         print_r($arr);
         echo $arr[1];
         echo '<br>';
-        
+        echo 'Asahichirokano';
         
         ?>
     </body>
